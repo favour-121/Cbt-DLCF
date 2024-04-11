@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin:0px auto;
+    padding: 0px auto;
+}
+.image{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    align-self: center;
+
+}
+header{
+    background-color: brown;
+    color: white;
+    justify-content: center;
+}
+h3{
+    color: brown;
+    text-align: center;
+    margin: 10px;
+}
+h2, #p1{
+    text-align: center;
+}
+#instruction{
+    font-size: 20px;
+    color: brown;
+    margin-bottom: 20px;
+}
+button{
+    background: brown;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border: 0px solid brown;
+    border-radius: 10px;
+}
+#footer{
+    background: black;
+    color: white;
+}
